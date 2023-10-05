@@ -1,0 +1,8 @@
+numpy==1.23.0
+pandas==2.0.1
+missingno==0.5.2
+matplotlib==3.7.1
+seaborn==0.12.2
+folium==0.14.0
+plotly==5.15.0
+scipy==1.10.1
